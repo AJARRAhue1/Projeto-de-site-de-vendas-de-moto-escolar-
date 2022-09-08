@@ -1,0 +1,27 @@
+ h1{
+    text-align: center;
+    color: white;
+ }
+ body{
+   background-color: black;
+ }
+table{
+   color: white;
+ text-align: center;
+size: 200cm;
+box-sizing: border-box;
+}
+   h2{
+
+      color: white;
+   }
+input{
+
+   color: oldlace;
+   border-color: darkblue;
+   background-color: black;
+   text-decoration-color: black;
+   column-rule-color: black;
+   lighting-color: black;
+}
+ 
